@@ -1,0 +1,36 @@
+body {
+    background-color: #ffffff;
+}
+table {
+    border: 1px solid black;
+}
+tr td {
+    padding: 10px;
+    border: 1px solid black;
+}
+.play_req {
+    border-color: green;
+    text-align: center;
+    width: 150px;
+}
+.play_res {
+    background-color: ligthgrey;
+    text-align: center;
+    width: 250px;
+}
+.play_res:hover {
+    background-color: grey;
+}
+.player{
+    width:80%;
+    margin-bottom: 2px;
+    background-color:ligthgrey;
+    border: 2px solid green;
+}
+p{
+    margin: 10px;
+    padding: 3px;
+}
+span{
+    color: blue;
+}

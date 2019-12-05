@@ -1,0 +1,30 @@
+[
+    {
+        "nome": "Marco",
+        "squadra": "Team First",
+        "numero_giocatori": 38,
+        "amount_speso": "480",
+        "amount_resto": "20"
+    },
+    {
+        "nome": "Piero",
+        "squadra": "Team second",
+        "numero_giocatori": 40,
+        "amount_speso": "500",
+        "amount_resto": "0"
+    },
+    {
+        "nome": "Luca",
+        "squadra": "Team Three",
+        "numero_giocatori": 35,
+        "amount_speso": "424",
+        "amount_resto": "76"
+    },
+    {
+        "nome": "Elia",
+        "squadra": "Team four",
+        "numero_giocatori": 39,
+        "amount_speso": "491",
+        "amount_resto": "9"
+    }
+]
